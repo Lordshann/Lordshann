@@ -1,0 +1,12 @@
+Body
+{
+
+    background-color: #ecf9ec;
+    background-image: url(../img/imagefond.jpg);
+    background-attachment: fixed;
+    background-position: right top;
+    background-repeat: repeat-x
+    width: 900px;
+    margin: auto;
+
+}
