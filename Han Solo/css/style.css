@@ -60,3 +60,21 @@ img
 {
     color: yellow;
 }
+
+a:link
+{
+    color: white;
+    text-underline: white;
+}
+
+a:visited
+{
+    color: white;
+    text-underline: white;
+}
+
+a:hover
+{
+    color: yellow;
+    text-underline: yellow;
+}
