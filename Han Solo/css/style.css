@@ -49,3 +49,14 @@ p
     color: white;
     font-size: 16px;
 }
+
+img
+{
+    margin: auto;
+    display: block;
+}
+
+.film
+{
+    color: yellow;
+}
