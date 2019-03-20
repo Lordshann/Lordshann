@@ -1,0 +1,46 @@
+body
+{
+    width: 1000px;
+    margin: auto;
+    background-color: black;
+    background-image: url(../img/etoileMort.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+
+}
+
+@font-face {
+    font-family: maPolice;
+    src: url(../font/Starjedi.ttf);
+}
+
+h1
+{
+    text-align: center;
+    font-size: 140px;
+    color: yellow;
+    font-family: maPolice;
+    margin: 0;
+}
+
+h2, h3, h4
+{
+  color: white;
+    text-align: center;
+}
+
+h2
+{
+    font-size:72px;
+}
+
+ h3
+ {
+    font-size: 60px;
+ }
+
+ h4
+ {
+     font-size: 44px;
+ }
+
